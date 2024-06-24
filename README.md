@@ -17,7 +17,7 @@
 </div>
 
 ## Навигация
-- [Прототип решения ↗](https://lct.undfnd.ru/landing)
+- [Прототип решения ↗](https://land.undfnd.ru/landing)
 - [Документация API ↗](https://lct.undfnd.ru/docs/)
 - [Описание проекта](#desc)
 - [Диаграмма решения](#arch)
